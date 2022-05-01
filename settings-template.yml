@@ -10,7 +10,7 @@ website:
 discord:
   id: "Enter your Discord OAuth2 ID here."
   secret: "Enter your Discord OAuth2 secret here."
-  callbackpath: "http://localhost:8000/accounts/callback"
+  callbackpath: "http://localhost:8000/accounts/callback" # use https
   prompt: false
 
   token: "Insert your bot token here."
